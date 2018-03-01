@@ -3,7 +3,7 @@ Example of larger Go database-heavy application.
 
 It strictly adheres to the onion layered principle. But there are problems.
 
-[Onion architecture](https://8thlight.com/blog/assets/posts/2012-08-13-the-clean-architecture/CleanArchitecture.jpg)
+![Onion architecture](https://8thlight.com/blog/assets/posts/2012-08-13-the-clean-architecture/CleanArchitecture.jpg)
 
 Each problem we ran into has its own issue.
 
