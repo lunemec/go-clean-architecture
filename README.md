@@ -9,6 +9,6 @@ Each problem we ran into has its own issue.
 
 Any ideas on improving these "code smells"?
 
-This program structure was inspired by:
-https://github.com/bxcodec/go-clean-arch
-https://8thlight.com/blog/uncle-bob/2012/08/13/the-clean-architecture.html
+This program structure was inspired by:  
+https://github.com/bxcodec/go-clean-arch  
+https://8thlight.com/blog/uncle-bob/2012/08/13/the-clean-architecture.html  
